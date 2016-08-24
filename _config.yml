@@ -1,0 +1,14 @@
+layout_spectrum: 0.5754650679882616
+typography_spectrum: 0.5911108390428126
+color:
+  brandStrength: 0.875750768231228
+  lightness: 0.8933041603304446
+  saturation: 0.3549772878177464
+  rhythmicContrast: 0.26850225985981524
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: robotic faces
